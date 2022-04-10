@@ -3,6 +3,8 @@
 buffer-move
 ===========
 
+[![CI](https://github.com/elp-revive/buffer-move/actions/workflows/test.yml/badge.svg)](https://github.com/elp-revive/buffer-move/actions/workflows/test.yml)
+
 This file is for lazy people wanting to swap buffers without
 typing C-x b on each window. This is useful when you have :
 
