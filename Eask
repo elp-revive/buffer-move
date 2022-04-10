@@ -1,6 +1,6 @@
 (package "buffer-move"
          "0.6.3"
-         "Automatic highlighting current symbol minor mode")
+         "easily swap buffers")
 
 (package-file "buffer-move.el")
 
