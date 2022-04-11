@@ -1,5 +1,3 @@
-test
-
 [![JCS-ELPA](https://raw.githubusercontent.com/jcs-emacs/jcs-elpa/master/badges/v/buffer-move.svg)](https://jcs-emacs.github.io/jcs-elpa/#/buffer-move)
 
 buffer-move
