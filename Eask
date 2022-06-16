@@ -2,6 +2,9 @@
          "0.6.3"
          "easily swap buffers")
 
+(website-url "https://github.com/elp-revive/buffer-move/")
+(keywords "convenience")
+
 (package-file "buffer-move.el")
 
 (depends-on "emacs" "24.1")
