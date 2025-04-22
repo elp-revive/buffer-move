@@ -1,3 +1,5 @@
+;; -*- mode: eask; lexical-binding: t -*-
+
 (package "buffer-move"
          "0.6.3"
          "easily swap buffers")
